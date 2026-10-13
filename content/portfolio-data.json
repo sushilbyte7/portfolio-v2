@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "pageTitle": "Sushil Kumar",
+    "metaDescription": "Web site created using create-react-app",
+    "metaDescriptionNote": "FLAG: default CRA placeholder, never updated",
+    "themeColor": "#000000",
+    "faviconPath": "/HeroImage.jpg",
+    "appleTouchIcon": "/HeroImage.jpg",
+    "ogImage": null,
+    "manifestJson": "referenced at /manifest.json but file NOT present in public/",
+    "packageName": "3d-portfolio-website",
+    "packageVersion": "0.1.1",
+    "homepage": "https://rishavchanda.github.io",
+    "homepageNote": "FLAG: points to another person's GitHub Pages, not Sushil's"
+  },
+
+  "identity": {
+    "fullName": "Sushil Kumar",
+    "heroGreeting": "Hi, I am",
+    "roles": [
+      "Software Developer",
+      "Web Developer",
+      "Problem Solver",
+      "Tech Enthusiast"
+    ],
+    "rolesNote": "Displayed via typewriter-effect, loops indefinitely",
+    "typewriterPrefix": "I am a",
+    "description": "I'm an MCA student passionate about crafting clean and efficient code. I love building modern websites, exploring new technologies, and solving real-world problems through development.",
+    "navbarLogo": "<Sushil/Kumar>",
+    "navbarLogoNote": "Rendered with '<' and '>' in primary color, '/' in primary color between names",
+    "heroImage": {
+      "localPath": "src/images/HeroImage.jpeg",
+      "altText": "Sushil Kumar",
+      "bytes": 85933
+    },
+    "faviconImage": {
+      "localPath": "public/HeroImage.jpg",
+      "bytes": 37799,
+      "note": "DUPLICATION: Two hero images exist with different filenames and sizes"
+    }
+  },
+
+  "cta": [
+    {
+      "label": "Check Resume",
+      "url": "https://drive.google.com/file/d/1ig0GyweHe6hTy7paxnEy6XxpHezkAMiF/view?usp=drivesdk",
+      "target": "_blank",
+      "location": "Hero section"
+    },
+    {
+      "label": "Github Profile",
+      "url": "https://github.com/sushilbyte7",
+      "target": "_Blank",
+      "location": "Navbar (desktop) and Navbar mobile menu"
+    }
+  ],
+
+  "about": {
+    "note": "No dedicated About section component. Bio description is only rendered in the Hero subtitle.",
+    "fullBio": "I'm an MCA student passionate about crafting clean and efficient code. I love building modern websites, exploring new technologies, and solving real-world problems through development.",
+    "bulletLists": null,
+    "stats": null,
+    "yearsOfExperience": null
+  },
+
+  "skills": [
+    {
+      "title": "Frontend",
+      "skills": [
+        { "name": "HTML", "image": "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" },
+        { "name": "CSS", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" },
+        { "name": "JavaScript", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" },
+        { "name": "React Js", "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" },
+        { "name": "Bootstrap", "image": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" }
+      ]
+    },
+    {
+      "title": "Backend",
+      "skills": [
+        { "name": "Node Js", "image": "https://nodejs.org/static/images/logo.svg" },
+        { "name": "Python", "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" },
+        { "name": "MySQL", "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" },
+        { "name": "MongoDB", "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" },
+        { "name": "Firebase", "image": "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" }
+      ]
+    },
+    {
+      "title": "DevOps",
+      "skills": [
+        { "name": "AWS", "image": "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" },
+        { "name": "Google Cloud", "image": "https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png" },
+        { "name": "Docker", "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" },
+        { "name": "Kubernetes", "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png" }
+      ]
+    },
+    {
+      "title": "Android",
+      "skills": [
+        { "name": "Java", "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" },
+        { "name": "Kotlin", "image": "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" },
+        { "name": "XML", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s" },
+        { "name": "Android Studio", "image": "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" }
+      ]
+    },
+    {
+      "title": "Machine Learning",
+      "skills": [
+        { "name": "Python", "image": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" },
+        { "name": "Tenserflow", "nameNote": "sic — misspelling of TensorFlow in source", "image": "https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png" },
+        { "name": "Jupyter", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" },
+        { "name": "Google Colab", "image": "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png" }
+      ]
+    },
+    {
+      "title": "Others",
+      "skills": [
+        { "name": "Git", "image": "https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" },
+        { "name": "GitHub", "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" },
+        { "name": "Netlify", "image": "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png" },
+        { "name": "VS Code", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" },
+        { "name": "Adobe XD", "image": "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667" },
+        { "name": "Figma", "image": "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png" }
+      ]
+    }
+  ],
+
+  "skillsSectionSubtitle": "Here are some of my skills on which I have been working on for the past 3 years.",
+
+  "projects": [
+    {
+      "id": 11,
+      "title": "DecisionHub",
+      "date": "Jan 2024 - Dec 2023",
+      "dateNote": "UNVERIFIED — end date precedes start date, likely a typo",
+      "description": "A Rule Builder application \"Decision Hub\" that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+      "image": "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
+      "tags": ["React Js", "PostgressSQL", "Node Js", "Express Js", "Redux", "React Flow"],
+      "tagsNote": "PostgressSQL is a misspelling of PostgreSQL in source",
+      "category": "web app",
+      "github": "https://github.com/rishavchanda/DecisionHub",
+      "webapp": "https://decisionhub.netlify.app/",
+      "featured": false,
+      "member": null,
+      "flag": "GitHub URL points to rishavchanda, not sushilbyte7"
+    },
+    {
+      "id": 9,
+      "title": "Trackify",
+      "date": "Jun 2023 - Jul 2023",
+      "description": "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:\t#Email: testemployee@gmail.com\t#Password- 123@Testemployee",
+      "image": "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "tags": ["Docker", "AWS", "DuckDNS", "Eslint", "Husky", "CI/CD", "React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      "category": "web app",
+      "github": "https://github.com/rishavchanda/Trackify",
+      "webapp": "https://trackify-management.netlify.app/",
+      "featured": false,
+      "member": null,
+      "flag": "GitHub URL points to rishavchanda, not sushilbyte7"
+    },
+    {
+      "id": 0,
+      "title": "Podstream",
+      "date": "Apr 2023 - May 2023",
+      "description": "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "image": "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      "category": "web app",
+      "github": "https://github.com/rishavchanda/Podstream",
+      "webapp": "https://podstream.netlify.app/",
+      "featured": false,
+      "member": [
+        {
+          "name": "Sushil Kumar",
+          "img": "https://avatars.githubusercontent.com/u/64485885?v=4",
+          "linkedin": "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+          "github": "https://github.com/rishavchanda/",
+          "flag": "Name is 'Sushil Kumar' but avatar/linkedin/github all point to rishavchanda — likely template data not updated"
+        },
+        {
+          "name": "Upasana Chaudhuri",
+          "img": "https://avatars.githubusercontent.com/u/100614635?v=4",
+          "linkedin": "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+          "github": "https://github.com/upasana0710"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Vexa",
+      "date": "Oct 2022 - Jan 2023",
+      "description": "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "image": "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "Redux", "NodeMailer"],
+      "category": "web app",
+      "github": "https://github.com/rishavchanda/Project-Management-App",
+      "webapp": "https://vexa-app.netlify.app/",
+      "featured": false,
+      "member": null,
+      "flag": "GitHub URL points to rishavchanda, not sushilbyte7"
+    },
+    {
+      "id": 2,
+      "title": "Brain Tumor Detection",
+      "date": "Jan 2023 - Mar 2023",
+      "description": "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "image": "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "tags": ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+      "category": "machine learning",
+      "github": "https://github.com/rishavchanda/Brain-Tumor-Detection",
+      "webapp": "https://brain-tumor.netlify.app/",
+      "featured": false,
+      "member": [
+        {
+          "name": "Sushil Kumar",
+          "img": "https://avatars.githubusercontent.com/u/64485885?v=4",
+          "linkedin": "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+          "github": "https://github.com/rishavchanda/",
+          "flag": "Same rishavchanda attribution issue as Podstream"
+        },
+        {
+          "name": "Upasana Chaudhuri",
+          "img": "https://avatars.githubusercontent.com/u/100614635?v=4",
+          "linkedin": "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+          "github": "https://github.com/upasana0710"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Buckoid",
+      "date": "Dec 2021 - Apr 2022",
+      "description": "App Is Currently In Playstore 100+ Downloads. This Project proposes an \"Expense Tracking App\". Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+      "image": "https://camo.githubusercontent.com/3ad28aa710d18525f1fc87de056ed53c706d09979589bfd5a773df36653bad38/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+      "tags": ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
+      "category": "android app",
+      "github": "https://github.com/rishavchanda/Buckoid-Android-App",
+      "webapp": "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+      "featured": false,
+      "member": null,
+      "flag": "Play Store package ID is com.rishav.buckoid — confirm ownership"
+    },
+    {
+      "id": 10,
+      "title": "Job Finding App",
+      "date": "Jun 2023 - Jul 2023",
+      "description": "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "image": "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+      "tags": ["React Native", "JavaScript", "Axios"],
+      "category": "android app",
+      "github": "https://github.com/rishavchanda/Job-finder-App",
+      "webapp": "https://github.com/rishavchanda/Job-finder-App",
+      "webappNote": "Same as github — no live demo URL",
+      "featured": false,
+      "member": null
+    },
+    {
+      "id": 4,
+      "title": "Whatsapp Clone",
+      "date": "Jul 2021",
+      "description": "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+      "tags": ["React Js", "Firebase", "Firestore", "Node JS"],
+      "category": "web app",
+      "github": "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
+      "webapp": "https://whatsapp-clone-rishav.web.app",
+      "featured": false,
+      "member": null
+    },
+    {
+      "id": 5,
+      "title": "Todo Web App",
+      "date": "Jun 2021",
+      "description": " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      "descriptionNote": "Leading space preserved verbatim from source",
+      "image": "https://camo.githubusercontent.com/84ac6ab6f378348ef28d8184062b7e9e3511a1252ae3966eaa49e8e998f732a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+      "tags": ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+      "category": "web app",
+      "github": "https://github.com/rishavchanda/Todo-Web-App",
+      "webapp": "https://rishav-react-todo.netlify.app/",
+      "featured": false,
+      "member": null
+    },
+    {
+      "id": 6,
+      "title": "Breaking Bad",
+      "date": "Jun 2021",
+      "description": "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
+      "image": "https://camo.githubusercontent.com/937774368308a82419f53dd6eeb4a8675780e119636488b4e3cfe5d34859a72a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
+      "tags": ["React Js", "API", "Axios", "Node JS"],
+      "category": "web app",
+      "github": "https://github.com/rishavchanda/Breaking-Bad",
+      "webapp": "https://breaking-bad-webapp.netlify.app",
+      "featured": false,
+      "member": null
+    },
+    {
+      "id": 7,
+      "title": "Quiz App",
+      "date": "Dec 2020 - Jan 2021",
+      "description": "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
+      "image": "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
+      "tags": ["Java", "Android Studio", "Firebase", "Google Auth"],
+      "category": "android app",
+      "github": "https://github.com/rishavchanda/Quiz-Earn",
+      "webapp": "https://github.com/rishavchanda/Quiz-Earn",
+      "webappNote": "Same as github — no live demo URL",
+      "featured": false,
+      "member": null
+    },
+    {
+      "id": 8,
+      "title": "Face Recognition",
+      "date": "Jan 2021",
+      "description": "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "image": "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
+      "tags": ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+      "category": "machine learning",
+      "github": "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+      "githubNote": "sic — 'Recodnition' misspelling in source URL",
+      "webapp": "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+      "webappNote": "Same as github — no live demo URL",
+      "featured": false,
+      "member": null
+    }
+  ],
+
+  "experience": [
+    {
+      "id": 0,
+      "role": "Frontend Engineer Intern",
+      "company": "Neurobit",
+      "date": "June 2023 - Nov 2023",
+      "location": null,
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+      "certificateDocUrl": "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
+      "desc": "Enhanced user experiences on Neurobit PSG & Hybrid, Portals by resolving bugs & reduced load time by 40%. Built Neurobit Analytics portal using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency and integrated Vite with Jest for Unit Testing.",
+      "skills": ["ReactJS", "Redux", "NodeJs", "Material UI", "HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": 1,
+      "role": "DevOps & Fullstack Engineering Intern",
+      "company": "Flipr Inovations Pvt. Ltd.",
+      "companyNote": "sic — 'Inovations' missing 'n' in source",
+      "date": "Aug 2023 - Oct 2023",
+      "location": null,
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+      "certificateDocUrl": "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
+      "desc": "Built Flipr Connect Platforms using React Js integrated GraphQL with AXIOS, created High level Design and Figma design. Built Backend with GraphQL and Node JS and connected with MongoDb - Reducing API calls by 20%. Dockerized and automated with Kubernetes & Jenkins CI/CD deployed in AWS-EC2 added Prometheus & Grafana for monitoring.",
+      "skills": ["Docker", "Terraform", "AWS", "EC2", "Portainer", "Nginx", "JavaScript", "TypeScript", "Node Js", " Next Js"],
+      "skillsNote": "' Next Js' has a leading space in source data"
+    },
+    {
+      "id": 2,
+      "role": "Android Developer Intern",
+      "company": "Rudraksha Welffare Foundation",
+      "companyNote": "sic — 'Welffare' double 'f' in source",
+      "date": "June 2021 - Oct 2021",
+      "location": null,
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
+      "certificateDocUrl": "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
+      "desc": "• Built RudraShakti - Astrologer App, with MVVM Architecture using Java and Android Studio integrating Firebase SDK. Created One to One video call integration with Socket.IO and Firebase cloud functions and integrated with Retrofit. Created Low Level Design and converted Figma design to XML code.",
+      "skills": ["Android", "Java", "Kotlin", "XML", "Node Js", "Cloud Firestore", "Firebase", "Figma"]
+    },
+    {
+      "id": 3,
+      "role": "Fullstack Externship",
+      "company": "Flipr",
+      "date": "June 2023 - July 2023",
+      "location": null,
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+      "certificateDocUrl": "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
+      "desc": "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
+      "skills": ["ReactJS", "Redux", "NodeJs", "Material UI", "HTML", "CSS", "JavaScript", "Docker", "AWS", "MongoDB"]
+    },
+    {
+      "id": 4,
+      "role": "Android Developer",
+      "company": "DSC KIIT",
+      "date": "Nov2021 - Present",
+      "dateNote": "No space after 'Nov' in source",
+      "location": null,
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
+      "certificateDocUrl": null,
+      "desc": "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
+      "skills": ["Leadership", "Mobile Application Development", "Kotlin", "XML", "Figma"]
+    },
+    {
+      "id": 5,
+      "role": "Open Source Contributor ",
+      "roleNote": "Trailing space in source",
+      "company": "GirlScript Summer of Code",
+      "date": "May 2023 - Present",
+      "location": null,
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
+      "certificateDocUrl": null,
+      "desc": "Contributed to different open-source projects and learn from industry experts",
+      "skills": null
+    }
+  ],
+
+  "education": [
+    {
+      "id": 0,
+      "school": "Pimpri Chinchwad University, Pune",
+      "degree": "Master of Computer Applications (MCA)",
+      "date": "Aug 2024 - Present",
+      "grade": "Pursuing",
+      "institutionLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5C-POxDGtIBsUSVZ871BDFVydgMPoTILqaQ&s",
+      "desc": "I am currently pursuing my Master's in Computer Applications (MCA) at Pimpri Chinchwad University, Pune. This program is helping me deepen my skills in software development, data structures, and emerging technologies like AI and cloud computing."
+    },
+    {
+      "id": 1,
+      "school": "Cimage College, Patna",
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "date": "Apr 2021 - Apr 2024",
+      "grade": "63.8%",
+      "institutionLogoUrl": "https://scontent.fpnq13-4.fna.fbcdn.net/v/t39.30808-1/296382271_5801748559856767_1390714614914492552_n.jpg?stp=dst-jpg_s160x160_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=VQdMFEm41N0Q7kNvwGBmIDY&_nc_oc=Adkj--2fl2odRyJPlthDTahZiPR82IhHhBwMjgNr4fmwu9Jt6oXJKYVsRgeHLI8gUIWTgYY1Z9SFPGcZsPExZb2d&_nc_zt=24&_nc_ht=scontent.fpnq13-4.fna&_nc_gid=NpXTw_nfKRkvcdi16n-1hw&oh=00_AfROAk5DQtijE7evCLGHDLe4A4X-ppzWkOTijGaVvleVwQ&oe=688E4C2A",
+      "desc": "I completed my Bachelor's degree in Computer Applications (BCA) at Cimage College, Patna. During this time, I built a strong foundation in programming, databases, and web development."
+    },
+    {
+      "id": 2,
+      "school": "TPS College, Patna",
+      "degree": "ISC(XII), Science",
+      "date": "Apr 2015 - Apr 2019",
+      "grade": "69.6%",
+      "institutionLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIo6bMcEOnpdvswa1KOxCTl0xj8Wb-HdaeWJPxCoFTnBZVPJhR_qDmxWXTVvjtojhjfug&usqp=CAU",
+      "desc": "I completed my class 12 high school education at TPS College, Patna, where I studied Science with Computer Science."
+    }
+  ],
+
+  "certifications": null,
+
+  "testimonials": null,
+
+  "contact": {
+    "sectionTitle": "Contact",
+    "sectionDesc": "Feel free to reach out to me for any questions or opportunities!",
+    "formTitle": "Email Me 🚀",
+    "formFields": ["Your Email", "Your Name", "Subject", "Message"],
+    "submitLabel": "Send",
+    "successAlert": "Message Sent",
+    "emailjsServiceId": "service_7xnnbty",
+    "emailjsTemplateId": "template_g08hj44",
+    "emailjsPublicKey": "8Ct0tH03y1dnBu2EN",
+    "email": null,
+    "phone": null,
+    "location": null
+  },
+
+  "social": [
+    { "platform": "GitHub", "url": "https://github.com/sushilbyte7", "fieldName": "Bio.github" },
+    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/sushilbyte7", "fieldName": "Bio.linkedin" },
+    { "platform": "Twitter/X", "url": "", "fieldName": "Bio.twitter", "note": "Empty string — not set" },
+    { "platform": "Instagram", "url": "https://www.linkedin.com/in/sushilbyte7", "fieldName": "Bio.insta", "flag": "Points to LinkedIn URL, not Instagram" },
+    { "platform": "Facebook", "url": "https://www.linkedin.com/in/sushilbyte7", "fieldName": "Bio.facebook", "flag": "Points to LinkedIn URL, not Facebook" },
+    { "platform": "Resume", "url": "https://drive.google.com/file/d/1ig0GyweHe6hTy7paxnEy6XxpHezkAMiF/view?usp=drivesdk", "fieldName": "Bio.resume" }
+  ],
+
+  "blog": null,
+
+  "nav": {
+    "sections": [
+      { "id": "hero", "label": "About", "href": "#hero" },
+      { "id": "Skills", "label": "Skills", "href": "#Skills" },
+      { "id": "Experience", "label": "Experience", "href": "#Experience" },
+      { "id": "Projects", "label": "Projects", "href": "#Projects" },
+      { "id": "Education", "label": "Education", "href": "#Education" },
+      { "id": "contact", "label": "Contact", "href": "#contact" }
+    ],
+    "ctaLabel": "Github Profile",
+    "ctaUrl": "https://github.com/sushilbyte7"
+  },
+
+  "footer": {
+    "logoText": "Sushil Kumar",
+    "navLinks": ["About", "Skills", "Experience", "Projects", "Education"],
+    "socialIcons": ["Facebook", "Twitter", "LinkedIn", "Instagram"],
+    "copyrightLine": "© 2024 Sushil Kumar. All rights reserved."
+  },
+
+  "theme": {
+    "activeTheme": "darkTheme",
+    "dark": {
+      "bg": "#090917",
+      "bgLight": "#1C1E27",
+      "primary": "#854CE6",
+      "text_primary": "#F2F3F4",
+      "text_secondary": "#b1b2b3",
+      "card": "#171721",
+      "card_light": "#191924",
+      "button": "#854CE6",
+      "white": "#FFFFFF",
+      "black": "#000000"
+    },
+    "light": {
+      "bg": "#FFFFFF",
+      "bgLight": "#f0f0f0",
+      "primary": "#be1adb",
+      "text_primary": "#111111",
+      "text_secondary": "#48494a",
+      "card": "#FFFFFF",
+      "button": "#5c5b5b"
+    },
+    "resumeButtonGradient": "linear-gradient(225deg, hsla(271,100%,50%,1) 0%, hsla(294,100%,50%,1) 100%)"
+  },
+
+  "publicAssets": [
+    { "path": "public/HeroImage.jpg", "bytes": 37799, "usage": "favicon, apple-touch-icon" },
+    { "path": "public/index.html", "usage": "HTML shell" },
+    { "path": "public/planet/scene.gltf", "usage": "3D planet model" },
+    { "path": "public/planet/scene.bin", "bytes": 1649176, "usage": "3D model binary" },
+    { "path": "public/planet/license.txt", "bytes": 674, "usage": "3D model license" },
+    { "path": "public/planet/textures/", "usage": "3D model textures directory" },
+    { "path": "src/images/HeroImage.jpeg", "bytes": 85933, "usage": "Hero section profile photo" }
+  ],
+
+  "duplications": [
+    "Bio.github used in Navbar.jsx, Hero.jsx (indirectly), and Footer.jsx",
+    "Bio.resume used in Hero.jsx (Check Resume button)",
+    "Bio.linkedin used in Footer.jsx social icons",
+    "public/HeroImage.jpg and src/images/HeroImage.jpeg are two separate files — different sizes and extensions",
+    "All project images are remote URLs (GitHub/Firebase) — no local images except HeroImage"
+  ],
+
+  "gaps": [
+    { "severity": "CRITICAL", "issue": "All 12 project GitHub URLs point to github.com/rishavchanda — not sushilbyte7. Confirm project ownership." },
+    { "severity": "CRITICAL", "issue": "Member data in Podstream and Brain Tumor Detection: 'Sushil Kumar' label but rishavchanda's avatar/links. Likely template not updated." },
+    { "severity": "CRITICAL", "issue": "package.json homepage is 'https://rishavchanda.github.io' — wrong person's domain." },
+    { "severity": "HIGH", "issue": "Bio.insta and Bio.facebook both point to LinkedIn URL. Fix or remove these social links." },
+    { "severity": "HIGH", "issue": "Meta description is CRA default placeholder — needs real content." },
+    { "severity": "MEDIUM", "issue": "DecisionHub date 'Jan 2024 - Dec 2023' — end before start, typo." },
+    { "severity": "MEDIUM", "issue": "'Tenserflow' misspelling in Machine Learning skills category." },
+    { "severity": "MEDIUM", "issue": "Bio.twitter is empty string." },
+    { "severity": "MEDIUM", "issue": "No email, phone, or location stored publicly anywhere." },
+    { "severity": "LOW", "issue": "Projects toggle: 'WEB APP\"S' uses wrong quote character." },
+    { "severity": "LOW", "issue": "'Flipr Inovations' — missing 'n' in Innovations." },
+    { "severity": "LOW", "issue": "'Rudraksha Welffare' — double 'f' in Welfare." },
+    { "severity": "LOW", "issue": "Experience id 5 role has trailing space: 'Open Source Contributor '." },
+    { "severity": "LOW", "issue": "Experience id 4 date: 'Nov2021' — missing space." },
+    { "severity": "QUESTION", "issue": "No dedicated About section — add expanded bio in new design?" },
+    { "severity": "QUESTION", "issue": "No blog section — adding one?" },
+    { "severity": "QUESTION", "issue": "No certifications — any to add?" },
+    { "severity": "QUESTION", "issue": "New profile photo for redesign?" }
+  ]
+}
